@@ -8,8 +8,8 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 | Date           | Nissi Guntur |Gaythri Aavula |
 |-------------   |-----------   |-----------    |         
-| Nov  11(Sat)   |      X       |               |           
-| Nov 13 (Mon)   |      X       |               |           
+| Nov  11(Sat)   |      X       |     X          |           
+| Nov 13 (Mon)   |      X       |     X          |           
 | Nov 17 (Fri)   |              |               |           
 | *Nov 21 (Tue)* |              |               |            
 | *Nov 24 (Fri)* |              |               |           
