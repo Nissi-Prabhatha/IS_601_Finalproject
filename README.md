@@ -1,6 +1,8 @@
 # IS_601_Finalproject
 
-Find the signin_sheet for  meetings an class attendance [here] (signin_sheet.md)
+# Sign_In_Sheet
+
+Find the signin_sheet for  meetings and class attendance [here] (https://github.com/Nissi-Prabhatha/IS_601_Finalproject/blob/main/signin_sheet.md)
 
 # FINAL BUSINESS ANALYSIS
 
