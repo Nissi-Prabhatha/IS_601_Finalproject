@@ -30,11 +30,9 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 ### ClassRoom Attendance
 
-# Meeting Sign-In Sheet
-
 Each student should put an 'X' under their name on the days they have meetings.
 
-### November 2023 - Meetings
+### November 2023 - Class
 
 | Date            | Nissi Guntur |Gaythri Aavula |
 |-------------    |-----------   |-----------    |         
@@ -48,7 +46,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 | NOv   30(Thu)   |              |               | 
            
 
-### December 2023 - Meetings
+### December 2023 - Class
 
 | Date           | Nissi Guntur |Gaythri Aavula |
 |-------------   |-----------   |-----------    |         
