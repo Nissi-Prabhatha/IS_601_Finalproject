@@ -1,10 +1,10 @@
 
 # FINAL BUSINESS ANALYSIS
 
-1.	Competitive Analysis (Archetype and Methods of Persuasion) for 3 competitors.
+### 1.Competitive Analysis (Archetype and Methods of Persuasion) for 3 competitors.
 
-Competitor 1: Fresh Kitchen
-Brand Archetype: Explorer
+***Competitor 1***: Fresh Kitchen
+***Brand Archetype***: Explorer
 
 •	Rationale: Fresh Kitchen positions itself as an Explorer, emphasizing variety and discovery in plant-based cuisine. The brand focuses on experimenting with unique flavors and ingredients to offer an exciting culinary journey.
 
@@ -32,7 +32,7 @@ Methods of Persuasion:
 
 
 
-Competitor 2: Nature's Table
+***Competitor 2***: Nature's Table
 Brand Archetype: Caregiver
 •	Rationale: Nature’s Table adopts the Caregiver archetype, emphasizing a nurturing and health-conscious approach to plant-based dining. The brand positions itself as a caring partner in customers' well-being.
 
