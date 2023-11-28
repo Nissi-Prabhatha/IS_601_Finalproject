@@ -4,11 +4,13 @@
 ### 1.Competitive Analysis (Archetype and Methods of Persuasion) for 3 competitors.
 
 ***Competitor 1***: Fresh Kitchen
+
 ***Brand Archetype***: Explorer
 
 •	Rationale: Fresh Kitchen positions itself as an Explorer, emphasizing variety and discovery in plant-based cuisine. The brand focuses on experimenting with unique flavors and ingredients to offer an exciting culinary journey.
 
-Methods of Persuasion:
+***Methods of Persuasion***:
+
 1.	Ethos (Credibility):
 •	Highlight partnerships with local farmers and organic suppliers, establishing credibility in sourcing high-quality, fresh ingredients.
 •	Showcase chef profiles and their culinary backgrounds to reinforce expertise.
@@ -33,10 +35,10 @@ Methods of Persuasion:
 
 
 ***Competitor 2***: Nature's Table
-Brand Archetype: Caregiver
+***Brand Archetype***: Caregiver
 •	Rationale: Nature’s Table adopts the Caregiver archetype, emphasizing a nurturing and health-conscious approach to plant-based dining. The brand positions itself as a caring partner in customers' well-being.
 
-Methods of Persuasion:
+***Methods of Persuasion**:
 1.	Ethos (Credibility):
 •	Emphasize partnerships with nutritionists and health experts to craft well-balanced and nourishing plant-based menus.
 •	Display certifications for organic and locally sourced ingredients, building trust in the brand's commitment to quality.
@@ -56,10 +58,10 @@ Methods of Persuasion:
 •	Encourage customers to explore the "Nourish Your Body" section of the menu.
 •	Promote wellness workshops or events to engage customers beyond the dining experience.
 
-Competitor 3: Veggie Heaven
-Brand Archetype: Creator
+***Competitor 3***: Veggie Heaven
+***Brand Archetype***: Creator
 •	Rationale: Veggie Heaven aligns with the Creator archetype, focusing on innovation and creativity in plant-based gastronomy. The brand positions itself as a hub for culinary exploration and artistic expression.
-Methods of Persuasion:
+***Methods of Persuasion***:
 1.	Ethos (Credibility):
 •	Highlight collaborations with renowned chefs and culinary artists, establishing credibility in the creative culinary space.
 •	Showcase awards or recognitions for innovative plant-based dishes.
@@ -79,7 +81,7 @@ Methods of Persuasion:
 •	Promote participation in creative culinary workshops or interactive cooking classes.
 •	Encourage customers to share their own plant-based culinary creations through an online platform.
 
-2.	SWOT Analysis 
+# 2.	SWOT Analysis 
 Strengths:
 1.	Brand Recognition and Loyalty:
 •	Method of Persuasion: Utilize the Caregiver archetype to emphasize the brand's commitment to the well-being of customers and the planet, fostering trust and loyalty.
@@ -125,7 +127,7 @@ Threats:
 •	Action: Stay informed about regulatory changes and update marketing materials accordingly.
 By leveraging the Caregiver archetype's qualities, Green Palate can position itself as a trusted, nurturing provider of sustainable and health-conscious plant-based options, addressing weaknesses and capitalizing on opportunities to navigate potential threats effectively. The brand can further refine its methods of persuasion to align with the identified strengths and opportunities, fostering a strong and loyal customer base.
 
-3.One Persona that represents one target customer that we are targeting with our archetype and methods of persuasion.
+# 3.One Persona that represents one target customer that we are targeting with our archetype and methods of persuasion.
 
 Name: Emily
 Demographics:
@@ -163,7 +165,7 @@ By tailoring marketing messages and offerings to meet the needs and values of Ec
 
 
 
-4.	Customer Journey or Sales Funnel Stages
+# 4.	Customer Journey or Sales Funnel Stages
 A high-level customer journey or sales funnel for Green Palate, describing how the website will operate through various stages. The sales funnel typically consists of several stages: Awareness, Consideration, Decision, and Retention. Here’s how Green Palate would address each stage:
 1.	Awareness Stage:
 •	Website Introduction:
@@ -209,7 +211,7 @@ A high-level customer journey or sales funnel for Green Palate, describing how t
 •	Showcase the positive impact of Green Palate on the community through success stories and testimonials.
 This high-level customer journey and sales funnel outline for Green Palate integrates various methods of persuasion and engagement strategies to guide users seamlessly from awareness to advocacy. It focuses on building a community, fostering customer relationships, and consistently delivering value at each stage of the journey.
 
-5.Initial set of user stories at the Initiative and Epic level.
+# 5.Initial set of user stories at the Initiative and Epic level.
 Here are some user stories for the "Green Palate" website:
 1. As a health-conscious individual:
 •	Scenario: I want to explore the menu to find nutritious and delicious plant-based dishes.
