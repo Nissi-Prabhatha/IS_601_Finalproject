@@ -17,6 +17,8 @@ Plant-Based Living Showcases: Showcase real-life stories of individuals embracin
 
 ***Action***: Call-to-Action - Exclusive Online Membership for Early Access
 Exclusive Online Membership: Encourage website visitors to sign up for an exclusive online membership, granting them early access to new menu items, discounts, and exclusive events. The call-to-action emphasizes the innovative and exclusive nature of Green Palate's offerings.
+
+
 ***Loyalty***: Post-Purchase Engagement - Personalized Offers and Community Building
 Personalized Offers: After a customer becomes a member or makes a purchase, Green Palate will send personalized offers via email, providing discounts on future orders or exclusive access to new menu items.
 Community Building: Foster a sense of community by establishing an online forum where members can share experiences, recipes, and engage in discussions related to sustainability and plant-based living.
@@ -34,7 +36,7 @@ Note: The email functionality and communication will be managed through platform
 ***Epic (Loyalty)***: After Emily enjoys a satisfying meal at Green Palates, she receives a personalized email thanking her for her visit. The email extends an invitation for her to bring a friend on her next visit, promising a complimentary order of "EcoDelight Bites" for the friend. Moreover, Emily discovers an exclusive buy one get one offer for the dish of the month in the email, contingent upon her sharing the special offer on her social media channels. These incentives not only enhance Emily's loyalty but also turn her into a brand advocate by encouraging social sharing.
 
 # Task Level User Stories
-***Homepage Navigation Epic***:
+***Homepage Navigation Epic***
 
 ***User Story 1***:
 Emily visits the Green Palate Restaurant website.
@@ -56,7 +58,7 @@ Emily wants to explore the menu for dinner.
 
 ***Result***: Browses through a well-organized menu with detailed descriptions and images of each dish.
 
-***Online Ordering Epic***:
+***Online Ordering Epic***
 
 ***User Story 1***:
 Emily decides to order dinner online.
@@ -72,7 +74,7 @@ Emily wants to know about the restaurant's delivery options.
 
 ***Result***: Accesses a page with clear information on delivery areas, delivery times, and any associated fees.
 
-***Reservation and Events Epic***:
+***Reservation and Events Epic***
 
 ***User Story 1***:
 Emily plans to celebrate a special occasion at Green Palate and wants to make a reservation.
@@ -88,7 +90,7 @@ Emily is interested in attending upcoming events at Green Palate.
 
 ***Result***: Finds a calendar or list of upcoming events, promotions, or themed nights.
 
-***About Us Epic***:
+***About Us Epic***
 
 
 ***User Story 1***:
@@ -108,7 +110,7 @@ Emily wants to know more about the chef and the team.
 
 ***Result***: Views profiles of the chef and key team members with their backgrounds and culinary expertise.
 
-***Contact Information Epic***:
+***Contact Information Epic***
 
 ***User Story 1***:
 Emily needs to contact Green Palate for a special inquiry.
