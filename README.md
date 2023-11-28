@@ -7,7 +7,7 @@ Find the signin_sheet for  meetings and class attendance [here] (https://github.
 [here](https://github.com/gayatriaavula/IS_601_Finalproject/blob/main/FINAL%20BUSINESS%20ANALYSIS.md)
 
 # Detailed User Stories, UX Design and Technology Research
-[here](https://github.com/gayatriaavula/IS_601_Finalproject/blob/main/UXdesign_Technolog%20Research.md)
+[here](https://github.com/gayatriaavula/IS_601_Finalproject/blob/main/UXdesign_Technology%20Research.md)
 
 
 
