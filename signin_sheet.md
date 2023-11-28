@@ -35,7 +35,11 @@ Each student should put an 'X' under their name on the days they have meetings.
 | Date            | Nissi Guntur |Gaythri Aavula |
 |-------------    |-----------   |-----------    |         
 | Nov   7(Tue)    |      X       |     X         |           
-| Nov   9(Thu)    |      X       |     X         |           
+| Nov   9(Thu)    |      X       |     X         |  
+| Nov   14(Tue)    |      X       |     X         |           
+| Nov   16(Thu)    |      X       |     X         | 
+| Nov   21(Tue)    |      X       |     X         |           
+| Nov   23(Thu)    |      Holiday       |     Holiday        |  
 
 
 ### December 2023 
