@@ -73,12 +73,14 @@ Emily wants to know about the restaurant's delivery options.
 ***Result***: Accesses a page with clear information on delivery areas, delivery times, and any associated fees.
 
 ***Reservation and Events Epic***:
+
 ***User Story 1***:
 Emily plans to celebrate a special occasion at Green Palate and wants to make a reservation.
 
 ***Action***: Clicks on the "Reservations" tab.
 
 ***Result***: Lands on a reservation page with a calendar, time slots, and instructions for making a reservation.
+
 ***User Story 2***:
 Emily is interested in attending upcoming events at Green Palate.
 
@@ -87,6 +89,8 @@ Emily is interested in attending upcoming events at Green Palate.
 ***Result***: Finds a calendar or list of upcoming events, promotions, or themed nights.
 
 ***About Us Epic***:
+
+
 ***User Story 1***:
 Emily is curious about the story behind Green Palate.
 
@@ -94,12 +98,17 @@ Emily is curious about the story behind Green Palate.
 
 ***Result***: Reads an engaging and informative narrative about the restaurant's history, values, and commitment to sustainable practices.
 
+
 ***User Story 2***:
 Emily wants to know more about the chef and the team.
 ***Action***: Clicks on the "Our Team" subsection under "About Us."
 ***Result***: Views profiles of the chef and key team members with their backgrounds and culinary expertise.
+
 ***Contact Information Epic***:
-*** User Story 1***:
+
+***User Story 1***:
 Emily needs to contact Green Palate for a special inquiry.
+
 ***Action***: Scrolls to the bottom of the homepage or clicks on "Contact Us."
+
 ***Result***: Finds a comprehensive contact page with a contact form, phone number, and address.
