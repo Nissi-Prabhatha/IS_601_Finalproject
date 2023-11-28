@@ -24,9 +24,13 @@ Note: The email functionality and communication will be managed through platform
 # Top Level User Stories
 
 ***Initiative***: Green Palates aims to attract individuals seeking a delightful and affordable vegetarian dining experience, emphasizing a fun and welcoming atmosphere.
+
 ***Epic (Awareness)***: Prospective diners, like Emily, begin their search for "Vegetarian Restaurants" online.
+
 ***Epic (Interest)***: Visitors land on the Green Palates homepage, captivated by vibrant visuals showcasing the restaurant's lively ambiance and diverse menu. The use of engaging imagery and testimonials creates an instant likability. The homepage prominently displays a limited-time offer for a complimentary dessert sampler with any main course order and a special buy one get one promotion for a featured dish, encouraging immediate interest and excitement.
+
 ***Epic (Action)***: To avail the dessert sampler offer and access exclusive promotions, visitors are prompted to click on a user-friendly link to sign up for the Green Palates newsletter. The sign-up process is seamless, ensuring a smooth transition from interest to action.
+
 ***Epic (Loyalty)***: After Emily enjoys a satisfying meal at Green Palates, she receives a personalized email thanking her for her visit. The email extends an invitation for her to bring a friend on her next visit, promising a complimentary order of "EcoDelight Bites" for the friend. Moreover, Emily discovers an exclusive buy one get one offer for the dish of the month in the email, contingent upon her sharing the special offer on her social media channels. These incentives not only enhance Emily's loyalty but also turn her into a brand advocate by encouraging social sharing.
 
 # Task Level User Stories
