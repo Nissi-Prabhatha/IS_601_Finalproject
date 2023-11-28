@@ -57,11 +57,3 @@ Each student should put an 'X' under their name on the days they have meetings.
 
            
 
-### December 2023 - Class
-
-| Date           | Nissi Guntur |Gaythri Aavula |
-|-------------   |-----------   |-----------    |         
-| Dec 5 (Tue)    |              |               |           
-| Dec 7 (Thu)    |              |               |           
-| Dec 12 (Tue)   |              |               |           
-| Dec 13 (Wed)   |              |               | 
