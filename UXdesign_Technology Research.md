@@ -101,7 +101,9 @@ Emily is curious about the story behind Green Palate.
 
 ***User Story 2***:
 Emily wants to know more about the chef and the team.
+
 ***Action***: Clicks on the "Our Team" subsection under "About Us."
+
 ***Result***: Views profiles of the chef and key team members with their backgrounds and culinary expertise.
 
 ***Contact Information Epic***:
