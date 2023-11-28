@@ -8,6 +8,7 @@ EcoConscious Emily, a 28-year-old Environmental Sustainability Consultant residi
 ***Awareness***: Channels - Social Media and Influencer Collaborations
 Social Media: Utilize platforms like Instagram, Twitter, and Facebook to showcase visually appealing and informative content about Green Palate's innovative plant-based menu, sustainability practices, and wellness benefits.
 Influencer Collaborations: Partner with influencers and wellness experts who align with the eco-conscious and innovative ethos of Green Palate, leveraging their audiences for increased brand awareness.
+
 ***Interest***: Hero Content - Engaging Video Series and Plant-Based Living Showcases
 
 Engaging Video Series: Develop a video series that provides a behind-the-scenes look at Green Palate's kitchen, highlighting the creativity and uniqueness of the plant-based dishes.
