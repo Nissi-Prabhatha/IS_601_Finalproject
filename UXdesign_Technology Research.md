@@ -39,14 +39,20 @@ Note: The email functionality and communication will be managed through platform
 ***User Story 1***:
 Emily visits the Green Palate Restaurant website.
 
+
 ***Action***: Scrolls through the homepage.
 
+
 ***Result***: Finds intuitive navigation options, including menu categories, specials, and an "About Us" section.
+
+
 
 ***User Story 2***:
 Emily wants to explore the menu for dinner.
 
+
 ***Action***: Clicks on the "Menu" tab in the navigation bar.
+
 
 ***Result***: Browses through a well-organized menu with detailed descriptions and images of each dish.
 
