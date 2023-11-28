@@ -30,11 +30,13 @@ Note: The email functionality and communication will be managed through platform
 ***Epic (Loyalty)***: After Emily enjoys a satisfying meal at Green Palates, she receives a personalized email thanking her for her visit. The email extends an invitation for her to bring a friend on her next visit, promising a complimentary order of "EcoDelight Bites" for the friend. Moreover, Emily discovers an exclusive buy one get one offer for the dish of the month in the email, contingent upon her sharing the special offer on her social media channels. These incentives not only enhance Emily's loyalty but also turn her into a brand advocate by encouraging social sharing.
 
 # Task Level User Stories
-###Homepage Navigation Epic###:
+***Homepage Navigation Epic***:
+
 ***User Story 1***:
 Emily visits the Green Palate Restaurant website.
 ***Action***: Scrolls through the homepage.
 ***Result***: Finds intuitive navigation options, including menu categories, specials, and an "About Us" section.
+
 ***User Story 2***:
 Emily wants to explore the menu for dinner.
 ***Action***: Clicks on the "Menu" tab in the navigation bar.
@@ -49,25 +51,25 @@ Emily wants to know about the restaurant's delivery options.
 ***Action***: Clicks on the "Delivery Information" link.
 ***Result***: Accesses a page with clear information on delivery areas, delivery times, and any associated fees.
 *** Reservation and Events Epic**:
-# User Story 1:
+***User Story 1***:
 Emily plans to celebrate a special occasion at Green Palate and wants to make a reservation.
 ***Action***: Clicks on the "Reservations" tab.
 ***Result***: Lands on a reservation page with a calendar, time slots, and instructions for making a reservation.
-# User Story 2:
+*** User Story 2***:
 Emily is interested in attending upcoming events at Green Palate.
 ***Action***: Clicks on the "Events" or "Specials" tab.
 ***Result***: Finds a calendar or list of upcoming events, promotions, or themed nights.
-# About Us Epic:
-# User Story 1:
+***About Us Epic***:
+***User Story 1***:
 Emily is curious about the story behind Green Palate.
 ***Action***: Clicks on the "About Us" section.
 ***Result***: Reads an engaging and informative narrative about the restaurant's history, values, and commitment to sustainable practices.
-# User Story 2:
+***User Story 2***:
 Emily wants to know more about the chef and the team.
 ***Action***: Clicks on the "Our Team" subsection under "About Us."
 ***Result***: Views profiles of the chef and key team members with their backgrounds and culinary expertise.
-# Contact Information Epic:
-# User Story 1:
+***Contact Information Epic***:
+*** User Story 1***:
 Emily needs to contact Green Palate for a special inquiry.
 ***Action***: Scrolls to the bottom of the homepage or clicks on "Contact Us."
 ***Result***: Finds a comprehensive contact page with a contact form, phone number, and address.
