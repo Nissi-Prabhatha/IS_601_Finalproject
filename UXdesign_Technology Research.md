@@ -96,6 +96,7 @@ Emily is curious about the story behind Green Palate.
 
 ***Action***: Clicks on the "About Us" section.
 
+
 ***Result***: Reads an engaging and informative narrative about the restaurant's history, values, and commitment to sustainable practices.
 
 
@@ -103,6 +104,7 @@ Emily is curious about the story behind Green Palate.
 Emily wants to know more about the chef and the team.
 
 ***Action***: Clicks on the "Our Team" subsection under "About Us."
+
 
 ***Result***: Views profiles of the chef and key team members with their backgrounds and culinary expertise.
 
