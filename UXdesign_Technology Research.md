@@ -38,36 +38,56 @@ Note: The email functionality and communication will be managed through platform
 
 ***User Story 1***:
 Emily visits the Green Palate Restaurant website.
+
 ***Action***: Scrolls through the homepage.
+
 ***Result***: Finds intuitive navigation options, including menu categories, specials, and an "About Us" section.
 
 ***User Story 2***:
 Emily wants to explore the menu for dinner.
+
 ***Action***: Clicks on the "Menu" tab in the navigation bar.
+
 ***Result***: Browses through a well-organized menu with detailed descriptions and images of each dish.
+
 ***Online Ordering Epic***:
+
 ***User Story 1***:
 Emily decides to order dinner online.
+
 ***Action***: Clicks on the "Order Online" button.
+
 ***Result***: Navigates to a user-friendly online ordering system, customizes her order, and adds items to the cart.
+
 ***User Story 2***:
 Emily wants to know about the restaurant's delivery options.
+
 ***Action***: Clicks on the "Delivery Information" link.
+
 ***Result***: Accesses a page with clear information on delivery areas, delivery times, and any associated fees.
-*** Reservation and Events Epic**:
+
+***Reservation and Events Epic***:
 ***User Story 1***:
 Emily plans to celebrate a special occasion at Green Palate and wants to make a reservation.
+
 ***Action***: Clicks on the "Reservations" tab.
+
 ***Result***: Lands on a reservation page with a calendar, time slots, and instructions for making a reservation.
-*** User Story 2***:
+***User Story 2***:
 Emily is interested in attending upcoming events at Green Palate.
+
 ***Action***: Clicks on the "Events" or "Specials" tab.
+
 ***Result***: Finds a calendar or list of upcoming events, promotions, or themed nights.
+
 ***About Us Epic***:
 ***User Story 1***:
 Emily is curious about the story behind Green Palate.
+
 ***Action***: Clicks on the "About Us" section.
+
 ***Result***: Reads an engaging and informative narrative about the restaurant's history, values, and commitment to sustainable practices.
+
 ***User Story 2***:
 Emily wants to know more about the chef and the team.
 ***Action***: Clicks on the "Our Team" subsection under "About Us."
