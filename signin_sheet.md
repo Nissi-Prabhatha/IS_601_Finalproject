@@ -15,8 +15,6 @@ Each student should put an 'X' under their name on the days they have meetings.
 | *Nov 24 (Fri)* |      X       |     X         |  
 | *Nov 27 (Mon) |       X       |     X          | 
 
-           
-
 ### December 2023 - Meetings
 
 | Date           | Nissi Guntur |Gaythri Aavula |
@@ -31,8 +29,6 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 
 ### ClassRoom Attendance
-
-Each student should put an 'X' under their name on the days they have meetings.
 
 ### November 2023 - Class
 
