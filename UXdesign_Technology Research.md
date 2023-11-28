@@ -30,7 +30,7 @@ Note: The email functionality and communication will be managed through platform
 ***Epic (Loyalty)***: After Emily enjoys a satisfying meal at Green Palates, she receives a personalized email thanking her for her visit. The email extends an invitation for her to bring a friend on her next visit, promising a complimentary order of "EcoDelight Bites" for the friend. Moreover, Emily discovers an exclusive buy one get one offer for the dish of the month in the email, contingent upon her sharing the special offer on her social media channels. These incentives not only enhance Emily's loyalty but also turn her into a brand advocate by encouraging social sharing.
 
 # Task Level User Stories
-***Homepage Navigation Epic***:
+###Homepage Navigation Epic###:
 ***User Story 1***:
 Emily visits the Green Palate Restaurant website.
 ***Action***: Scrolls through the homepage.
