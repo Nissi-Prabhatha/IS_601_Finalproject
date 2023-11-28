@@ -13,7 +13,6 @@
   ***Methods of Persuasion***:
 
     1.	Ethos (Credibility):
-    
     •	Highlight partnerships with local farmers and organic suppliers, establishing credibility in sourcing high-quality, fresh ingredients.
     •	Showcase chef profiles and their culinary backgrounds to reinforce expertise.
     2.	Pathos (Emotion):
