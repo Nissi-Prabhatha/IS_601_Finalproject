@@ -11,9 +11,9 @@ Each student should put an 'X' under their name on the days they have meetings.
 | Nov  11(Sat)   |      X       |     X          |           
 | Nov 13 (Mon)   |      X       |     X          |           
 | Nov 17 (Fri)   |      X       |     X          |           
-| *Nov 21 (Tue)* |      X       |               |            
-| *Nov 24 (Fri)* |      X       |               |  
-| *Nov 27 (Mon) |       X       |               | 
+| *Nov 21 (Tue)* |      X       |     X          |            
+| *Nov 24 (Fri)* |      X       |     X         |  
+| *Nov 27 (Mon) |       X       |     X          | 
 
            
 
@@ -42,8 +42,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 | Nov   9(Thu)    |      X       |     X         |           
 | Nov   14(Tue)   |      X       |     X         |           
 | Nov   16(Thu)   |      X       |     X         |            
-| Nov   21(Tue)   |      X       |             |      
-|*Nov   23(Thu)   |    Holiday   |             | 
+|*Nov   23(Thu)   |    Holiday   |   Holiday     | 
 =======
 
 ### December 2023 
