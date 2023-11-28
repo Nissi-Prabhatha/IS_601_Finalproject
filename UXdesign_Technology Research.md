@@ -28,25 +28,25 @@ Note: The email functionality and communication will be managed through platform
 ***Epic (Loyalty)***: After Emily enjoys a satisfying meal at Green Palates, she receives a personalized email thanking her for her visit. The email extends an invitation for her to bring a friend on her next visit, promising a complimentary order of "EcoDelight Bites" for the friend. Moreover, Emily discovers an exclusive buy one get one offer for the dish of the month in the email, contingent upon her sharing the special offer on her social media channels. These incentives not only enhance Emily's loyalty but also turn her into a brand advocate by encouraging social sharing.
 
 # Task Level User Stories
-# Homepage Navigation Epic:
-# User Story 1:
+***Homepage Navigation Epic***:
+***User Story 1***:
 Emily visits the Green Palate Restaurant website.
 ***Action***: Scrolls through the homepage.
 ***Result***: Finds intuitive navigation options, including menu categories, specials, and an "About Us" section.
-# User Story 2:
+***User Story 2***:
 Emily wants to explore the menu for dinner.
 ***Action***: Clicks on the "Menu" tab in the navigation bar.
 ***Result***: Browses through a well-organized menu with detailed descriptions and images of each dish.
-# Online Ordering Epic:
-# User Story 1:
+***Online Ordering Epic***:
+***User Story 1***:
 Emily decides to order dinner online.
 ***Action***: Clicks on the "Order Online" button.
 ***Result***: Navigates to a user-friendly online ordering system, customizes her order, and adds items to the cart.
-# User Story 2:
+***User Story 2***:
 Emily wants to know about the restaurant's delivery options.
 ***Action***: Clicks on the "Delivery Information" link.
 ***Result***: Accesses a page with clear information on delivery areas, delivery times, and any associated fees.
-# Reservation and Events Epic:
+*** Reservation and Events Epic**:
 # User Story 1:
 Emily plans to celebrate a special occasion at Green Palate and wants to make a reservation.
 ***Action***: Clicks on the "Reservations" tab.
