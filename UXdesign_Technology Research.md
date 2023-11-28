@@ -13,6 +13,8 @@ Influencer Collaborations: Partner with influencers and wellness experts who ali
 
 Engaging Video Series: Develop a video series that provides a behind-the-scenes look at Green Palate's kitchen, highlighting the creativity and uniqueness of the plant-based dishes.
 Plant-Based Living Showcases: Showcase real-life stories of individuals embracing a plant-based lifestyle, aligning with the brand's Maverick/Innovator archetype.
+
+
 ***Action***: Call-to-Action - Exclusive Online Membership for Early Access
 Exclusive Online Membership: Encourage website visitors to sign up for an exclusive online membership, granting them early access to new menu items, discounts, and exclusive events. The call-to-action emphasizes the innovative and exclusive nature of Green Palate's offerings.
 ***Loyalty***: Post-Purchase Engagement - Personalized Offers and Community Building
