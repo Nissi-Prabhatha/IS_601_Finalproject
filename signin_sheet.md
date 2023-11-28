@@ -13,6 +13,7 @@ Each student should put an 'X' under their name on the days they have meetings.
 | Nov 17 (Fri)   |      X       |     X          |           
 | *Nov 21 (Tue)* |              |               |            
 | *Nov 24 (Fri)* |              |               |           
+
            
 
 ### December 2023 - Meetings
