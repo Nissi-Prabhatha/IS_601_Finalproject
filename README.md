@@ -1,6 +1,6 @@
 # IS_601_Finalproject
 
-# Sign_In_Sheet*
+# Sign_In_Sheet
 
 Find the signin_sheet for  meetings and class attendance
  [here](https://github.com/gayatriaavula/IS_601_Finalproject/blob/main/signin_sheet.md)
