@@ -19,11 +19,11 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 | Date           | Nissi Guntur |Gaythri Aavula |
 |-------------   |-----------   |-----------    |
-| Nov 28(Tue)    |              |               |           
-| Dec 1 (Fri)    |              |               |           
-| Dec 5 (Tue)    |              |               |           
-| Dec 8 (Fri)    |              |               |           
-| Dec 12 (Tue)   |              |               |  
+| Nov 28(Tue)    |      X        |     X          |           
+| Dec 1 (Fri)    |      X        |      X         |           
+| Dec 5 (Tue)    |     X         |      X         |           
+| Dec 8 (Fri)    |    X          |      X         |           
+| Dec 12 (Tue)   |       X       |       X        |  
 
 =============================================================================
 
@@ -46,11 +46,11 @@ Each student should put an 'X' under their name on the days they have meetings.
 
 | Date           | Nissi Guntur |Gaythri Aavula |
 |-------------   |-----------   |-----------    |
-| Nov 30(Thu)    |              |               |                   
-| Dec 5 (Tue)    |              |               |           
-| Dec 7 (Thu)    |              |               |           
-| Dec 12 (Tue)   |              |               | 
-| Dec 13 (Wed)   |              |               | 
+| Nov 30(Thu)    |      X        |      X        |                   
+| Dec 5 (Tue)    |      X        |      X         |           
+| Dec 7 (Thu)    |       X       |      X         |           
+| Dec 12 (Tue)   |       X       |       X        | 
+| Dec 13 (Wed)   |      X        |       X        | 
 
            
 
