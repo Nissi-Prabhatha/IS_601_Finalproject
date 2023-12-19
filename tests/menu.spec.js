@@ -1,4 +1,6 @@
+
 const {test,expect} = require('@playwright/test');
+
 
 test('it should load the homepage', async ({ page }) => {
   await page.goto('http://localhost:3000');
