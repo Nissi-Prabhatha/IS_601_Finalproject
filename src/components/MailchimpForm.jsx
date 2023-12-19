@@ -1,21 +1,13 @@
 // MailchimpForm.js
 
-/*
-import dynamic from 'next/dynamic';
 import Head from 'next/head';
-import Image from 'next/image';
-import intuitMailchimpBadge from 'https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg';
-const DynamicHead = dynamic(() => import('next/head'), {
-  ssr: false,
-});
 
 const MailchimpForm = () => {
-
   return (
     <>
-      <DynamicHead>
+      <Head>
         <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css" />
-      </DynamicHead>
+      </Head>
       <div id="mc_embed_shell">
         <div id="mc_embed_signup">
           <form
@@ -59,21 +51,18 @@ const MailchimpForm = () => {
                   <p style={{ margin: '10px 0', fontSize: '14px' }}>
                     <a href="http://eepurl.com/iF98z6" title="Mailchimp - email marketing made easy and fun">
                       <span style={{ display: 'inline-block', backgroundColor: 'transparent', borderRadius: '4px' }}>
-                        <Image
+                        <img
                           className="refferal_badge"
-                          src={intuitMailchimpBadge}
+                          src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg"
                           alt="Intuit Mailchimp"
-                          width={220}
-                          height={40}
-                          layout="intrinsic"
-                          /*style={{
+                          style={{
                             width: '220px',
                             height: '40px',
                             display: 'flex',
                             padding: '2px 0px',
                             justifyContent: 'center',
                             alignItems: 'center',
-                          }}*/
+                          }}
                         />
                       </span>
                     </a>
@@ -112,5 +101,3 @@ const MailchimpForm = () => {
 };
 
 export default MailchimpForm;
-
-*/
