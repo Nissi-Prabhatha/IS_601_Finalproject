@@ -1,102 +1,74 @@
-// MailchimpForm.js
+// MailchimpForm.jsx
 
-import Head from 'next/head';
+// MailchimpForm.jsx
 
 const MailchimpForm = () => {
   return (
-    <>
-      <Head>
-        <link href="//cdn-images.mailchimp.com/embedcode/classic-061523.css" rel="stylesheet" type="text/css" />
-      </Head>
-      <div id="mc_embed_shell">
-        <div id="mc_embed_signup">
-          <form
-            action="https://gmail.us21.list-manage.com/subscribe/post?u=346b5ce19ef1439dadc724ece&amp;id=1cf18948fb&amp;f_id=00efeee6f0"
-            method="post"
-            id="mc-embedded-subscribe-form"
-            name="mc-embedded-subscribe-form"
-            className="validate"
-            target="_blank"
-            style={{
-              display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'center',
-              maxWidth: '300px',
-              margin: '0 auto',
-            }}
-          >
-            <div id="mc_embed_signup_scroll" style={{ textAlign: 'center' }}>
-      
-              <div aria-hidden="true" style={{ position: 'absolute', left: '-5000px' }}>
-                <input type="text" name="b_346b5ce19ef1439dadc724ece_1cf18948fb" tabIndex="-1" value="" />
-              </div>
-              <div className="optionalParent">
-                <div>
-                  <input
-                    type="submit"
-                    name="subscribe"
-                    id="mc-embedded-subscribe"
-                    className="button"
-                    value="Subscribe"
-                    style={{
-                      width: '100%',
-                      padding: '10px',
-                      backgroundColor: '#3498db',
-                      color: '#fff',
-                      border: 'none',
-                      borderRadius: '4px',
-                      cursor: 'pointer',
-                    }}
-                  />
-                  <p style={{ margin: '10px 0', fontSize: '14px' }}>
-                    <a href="http://eepurl.com/iF98z6" title="Mailchimp - email marketing made easy and fun">
-                      <span style={{ display: 'inline-block', backgroundColor: 'transparent', borderRadius: '4px' }}>
-                        <img
-                          className="refferal_badge"
-                          src="https://digitalasset.intuit.com/render/content/dam/intuit/mc-fe/en_us/images/intuit-mc-rewards-text-dark.svg"
-                          alt="Intuit Mailchimp"
-                          style={{
-                            width: '220px',
-                            height: '40px',
-                            display: 'flex',
-                            padding: '2px 0px',
-                            justifyContent: 'center',
-                            alignItems: 'center',
-                          }}
-                        />
-                      </span>
-                    </a>
-                  </p>
-                </div>
-              </div>
-            </div>
-          </form>
+    <div className="flex justify-center items-center h-screen bg-gray-100">
+      <form
+        action="https://gmail.us21.list-manage.com/subscribe/post?u=346b5ce19ef1439dadc724ece&amp;id=1cf18948fb&amp;f_id=00efeee6f0" // Replace with your Mailchimp form action URL
+        method="post"
+        id="mc-embedded-subscribe-form"
+        name="mc-embedded-subscribe-form"
+        className="validate w-full max-w-lg bg-white p-8 rounded-lg shadow-md" // Corrected className
+        target="_blank"
+        noValidate
+      >
+        <h2 className="text-2xl font-bold text-center mb-6">Sign Up for Updates</h2>
 
+        {/* Email Address */}
+        <div className="mb-4">
+          <label htmlFor="mce-EMAIL" className="block text-gray-700 text-sm font-bold mb-2">
+            Email Address
+          </label>
+          <input
+            type="email"
+            name="EMAIL"
+            id="mce-EMAIL"
+            className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+            required
+          />
         </div>
-        <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script>
-        <script type="text/javascript">
-          {`
-            (function($) {
-              window.fnames = new Array();
-              window.ftypes = new Array();
-              fnames[0] = 'EMAIL';
-              ftypes[0] = 'email';
-              fnames[1] = 'FNAME';
-              ftypes[1] = 'text';
-              fnames[2] = 'LNAME';
-              ftypes[2] = 'text';
-              fnames[3] = 'ADDRESS';
-              ftypes[3] = 'address';
-              fnames[4] = 'PHONE';
-              ftypes[4] = 'phone';
-              fnames[5] = 'BIRTHDAY';
-              ftypes[5] = 'birthday';
-            })(jQuery);
-            var $mcj = jQuery.noConflict(true);
-          `}
-        </script>
-      </div>
-    </>
+
+        {/* First Name */}
+        <div className="mb-4">
+          <label htmlFor="mce-FNAME" className="block text-gray-700 text-sm font-bold mb-2">
+            First Name
+          </label>
+          <input
+            type="text"
+            name="FNAME"
+            id="mce-FNAME"
+            className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+          />
+        </div>
+
+        {/* Last Name */}
+        <div className="mb-4">
+          <label htmlFor="mce-LNAME" className="block text-gray-700 text-sm font-bold mb-2">
+            Last Name
+          </label>
+          <input
+            type="text"
+            name="LNAME"
+            id="mce-LNAME"
+            className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+          />
+        </div>
+
+        {/* Subscribe Button */}
+        <div className="mb-4">
+          <button
+            type="submit"
+            name="subscribe"
+            id="mc-embedded-subscribe"
+            className="w-full bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
+          >
+            Subscribe
+          </button>
+        </div>
+      </form>
+    </div>
   );
 };
 
