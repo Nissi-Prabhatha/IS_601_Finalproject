@@ -3,7 +3,7 @@
     {
       "name": "Playwright ",
       "setup": "npm install && npm run build && npx playwright install chromium --with-deps",
-      "run": "npm run test",
+      "run": "npx playwright test",
       "input": "",
       "output": "",
       "comparison": "included",
