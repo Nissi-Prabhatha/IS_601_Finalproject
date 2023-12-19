@@ -1,4 +1,5 @@
-const { test, expect } = require('@playwright/test');
+// @ts-check
+const {test,expect} = require('@playwright/test');
 
 
 
