@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "test": "playwright test"
+    "tests": "npx playwright test"
   },
   "dependencies": {
     "@nextui-org/react": "^2.2.9",
