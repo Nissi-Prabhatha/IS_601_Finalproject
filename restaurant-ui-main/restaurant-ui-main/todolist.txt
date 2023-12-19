@@ -1,0 +1,8 @@
+1. Login page
+2. Review page
+3. Table Booking
+4. color change -> green 
+5. MASSIMO -> Green-plate
+6. Google analatics
+7. GDPR Integartion
+8. mailchimp
