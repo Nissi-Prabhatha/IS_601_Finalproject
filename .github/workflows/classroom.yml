@@ -15,21 +15,7 @@ jobs:
     runs-on: ubuntu-latest
     if: github.actor != 'github-classroom[bot]'
     steps:
+      - name: Setup Playwright
+      - uses: microsoft/setup-playwright@v2
       - uses: actions/checkout@v4
-
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 14
-
-      - name: Install Playwright
-        run: npm install playwright
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Build
-        run: npm run build
-
-      - name: Run tests with Playwright
-        run: npm test
+      - uses: education/autograding@v1
