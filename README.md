@@ -18,8 +18,7 @@ Find the signin_sheet for  meetings and class attendance
 
 [here](https://is-601-finalproject.vercel.app/)
 
-## Figma  latest Design
-[here]()
+
 
 
 
