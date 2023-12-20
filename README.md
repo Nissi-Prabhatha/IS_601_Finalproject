@@ -14,5 +14,14 @@ Find the signin_sheet for  meetings and class attendance
 ## Figma Design
 [here](https://www.figma.com/file/0Miizia92Eqc0xYyKNZXLZ/GREEN-PALATE?type=design&node-id=0%3A1&mode=design&t=yewDvocMrttzSGFx-1) 
 
+## vercel link
+
+[here](https://is-601-finalproject.vercel.app/)
+
+## Figma  latest Design
+[here]()
+
+
+
 
 
