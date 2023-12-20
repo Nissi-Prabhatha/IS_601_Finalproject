@@ -24,7 +24,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <GoogleAnalytics GA_MEASUREMENT_ID='G-0000000000'/>
+      <GoogleAnalytics GA_MEASUREMENT_ID='G-JB0NVXH5EP'/>
       <body className={inter.className}>
         <div>
           <Notification />
