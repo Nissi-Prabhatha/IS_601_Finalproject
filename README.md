@@ -12,14 +12,13 @@ Find the signin_sheet for  meetings and class attendance
 [here](https://github.com/gayatriaavula/IS_601_Finalproject/blob/main/UXdesign_Technology%20Research.md)
 
 ## Figma Design
-[here](https://www.figma.com/file/0Miizia92Eqc0xYyKNZXLZ/GREEN-PALATE?type=design&node-id=0%3A1&mode=design&t=yewDvocMrttzSGFx-1) 
+[here](https://www.figma.com/file/iJidlTvROWIkytoipka1sU/FINAL_GREEN_PALATE?type=design&node-id=0-1&mode=design) 
 
 ## vercel link
 
 [here](https://is-601-finalproject.vercel.app/)
 
-## Figma  latest Design
-[here]()
+
 
 
 
