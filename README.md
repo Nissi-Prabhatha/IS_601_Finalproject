@@ -1,19 +1,5 @@
-# IS_601_Finalproject
 
-# FINAL BUSINESS ANALYSIS
-[here](https://github.com/gayatriaavula/IS_601_Finalproject/blob/main/FINAL%20BUSINESS%20ANALYSIS.md)
-
-# Detailed User Stories, UX Design and Technology Research
-[here](https://github.com/gayatriaavula/IS_601_Finalproject/blob/main/UXdesign_Technology%20Research.md)
-
-## Figma Design
-[here](https://www.figma.com/file/iJidlTvROWIkytoipka1sU/FINAL_GREEN_PALATE?type=design&node-id=0-1&mode=design) 
-
-## vercel link
-
-[here](https://is-601-finalproject.vercel.app/)
-
-🌱 IS_601 Final Project – Green Palate
+🌱 #IS_601 Final Project – Green Palate
 Welcome to the repository for our IS 601 Final Project, where we present Green Palate, a web-based platform designed to promote healthy, plant-based dining experiences.
 
 This project encapsulates every stage of product development—from business analysis and user research to design, development, and deployment.
